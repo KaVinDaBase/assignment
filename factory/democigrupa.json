@@ -1,0 +1,9 @@
+{
+	"name": "democigrupa",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3edcc243-94bf-4f2f-8972-f3a95acf39e0",
+		"tenantId": "7f7c1625-a55c-4155-a976-5f19e853822a"
+	}
+}
